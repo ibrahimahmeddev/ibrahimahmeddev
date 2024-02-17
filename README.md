@@ -16,8 +16,7 @@
 - 🌱 I'm on track with learning more about Front-End and web development.
 - 💬 Ask me about my experience with JavaScript and ReactJS or anything related to web development.
 - 📫 How to reach me ibrahimembaby8@gmail.com
-
-📄 Know about my experiences https://drive.google.com/file/d/1JQFpk0H7fXUDmS7P2FYF07bqmQkL_-_S/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1JQFpk0H7fXUDmS7P2FYF07bqmQkL_-_S/view?usp=sharing
 
 
 
